@@ -5,17 +5,15 @@
 }
 
 
-
-
 span, h2 {
     font-family: 'Bubblegum Sans', cursive;
     font-size: 20px;
 }
 
+
 .big-font {
     font-family: 'Sigmar', cursive;
 }
-
 
 
 
@@ -98,8 +96,6 @@ nav {
     text-align: center;
     letter-spacing: 3px;
 }
-
-
 
 
 .profile {
