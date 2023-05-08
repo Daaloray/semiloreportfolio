@@ -5,6 +5,8 @@
 }
 
 
+
+
 span, h2 {
     font-family: 'Bubblegum Sans', cursive;
     font-size: 20px;
@@ -97,9 +99,7 @@ nav {
     letter-spacing: 3px;
 }
 
-.small-height {
-    line-height: 0;
-}
+
 
 
 .profile {
@@ -195,7 +195,7 @@ text-align: center;
 }
 
 .work, .education {
-    padding-top: 20px;
+    padding-top: 40px;
    
 }
 
