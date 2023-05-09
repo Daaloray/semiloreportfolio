@@ -5,15 +5,15 @@
 }
 
 
-span, h2 {
+span {
     font-family: 'Bubblegum Sans', cursive;
     font-size: 20px;
 }
 
-
 .big-font {
     font-family: 'Sigmar', cursive;
 }
+
 
 
 
@@ -97,6 +97,10 @@ nav {
     letter-spacing: 3px;
 }
 
+.small-height {
+    line-height: 0;
+}
+
 
 .profile {
     
@@ -107,7 +111,7 @@ nav {
         grid-row-gap: 0px;
         background: black;
         color: aliceblue;
-        padding-top: 42px;
+        padding: 12px;
         
 }
 
@@ -163,9 +167,6 @@ text-align: center;
 
     .language {
         padding-top: 10px;
-        font-family: 'Inter', sans-serif;
-        letter-spacing: 1px;
-        font-size: 18px;
         
     }
 
@@ -178,20 +179,13 @@ text-align: center;
         grid-row-gap: 0px;
         padding: 10px;
         padding-top: 20px;
-        
+        text-align: center;
         background: black;
         color: aliceblue;
 }
 
-.text > p {
-  font-family: 'Inter', sans-serif;
-        letter-spacing: 1px;
-        font-size: 18px;
-        
-}
-
 .work, .education {
-    padding-top: 40px;
+    padding-top: 20px;
    
 }
 
